@@ -4,6 +4,16 @@
     "com.palm.lunabus/signal/registerServerStatus",
     "com.webos.appUpdateService/check",
     "com.webos.notification/purgeHistory",
-    "com.webos.service.bus/signal/registerServerStatus"
+    "com.webos.service.bus/signal/registerServerStatus",
+    "com.palm.applicationManager/launch",
+    "com.palm.service.calendar.reminders/onInit",
+    "com.palm.telephony/internal/sendSmsFromDb",
+    "com.palm.service.contacts.linker/dbUpdatedRelinkChanges",
+    "org.webosports.service.messaging/assignMessages",
+    "com.palm.imlibpurple/loginStateChanged",
+    "com.palm.imlibpurple/sendIM",
+    "com.palm.imlibpurple/sendCommand",
+    "com.palm.service.contacts/sortOrderChanged",
+    "org.webosports.service.update/checkUpdate"
   ]
 }
