@@ -19,7 +19,6 @@
   "com.webos.pmlogd": ["private", "public"],
   "com.palm.downloadmanager": ["private", "public"],
   "luna-appmanager": ["private", "public"],
-  "org.webosinternals.tweaks.prefs": ["private", "public"],
   "org.webosports.mediaindexer": ["private", "public"],
   "org.webosports.cdav.service": ["private", "public"],
   "org.webosports.service.update": ["private", "public"],
